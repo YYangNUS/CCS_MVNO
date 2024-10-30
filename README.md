@@ -2,7 +2,7 @@
 
 ### [Paper](https://arxiv.org/abs/2409.04877) | [Bibtex](#bibtex)
 
-Rabiah Alnashwan\*$^1$, Yang Yang\* $^†{^2}$, Yilu Dong$^3$, Prosanta Gope $^†{^1}$, Behzad Abdolmaleki $^1$, Syed Rafiul Hussain $^3$.
+Rabiah Alnashwan\* $^1$, Yang Yang\* $^†{^2}$, Yilu Dong $^3$, Prosanta Gope $^†{^1}$, Behzad Abdolmaleki $^1$, Syed Rafiul Hussain $^3$.
 
 
 (* Equal contribution, $†$ Corresponding Author.)
